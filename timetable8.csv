@@ -1,0 +1,11 @@
+Time,Monday,Tuesday,Wednesday,Thrusday,Friday,Saturday,class
+,,,,,,,
+8:00 - 8:30 AM,Maths,Maths,Maths,Maths,Maths,Maths,8
+8:30 - 9:00 AM,Science,Social Science,Maths,Social Science,Maths,Social Science,8
+9:00 - 9:30 AM,English,Hindi,Science,Hindi,Science,Social Science,8
+9:30 - 10:00 AM,English,Hindi,Social Science,Hindi,Hindi,Science,8
+10:00 - 10:30 AM,Lunch,Lunch,Lunch,Lunch,Lunch,English,8
+10:30 - 11:00 AM,Hindi,Maths,Hindi,English,Social Science,,8
+11:00 - 11:30 AM,Social Science,English,Social Science,Science,Hindi,,8
+11:30 - 12:00 PM,Social Science,Science,Science,Science,English,,8
+12:00 - 12:30 PM,English,Science,Science,English,Science,,8
